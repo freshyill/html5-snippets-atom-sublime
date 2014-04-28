@@ -1,0 +1,25 @@
+'.text.html':
+    'HTML5 Skeleton':
+      'prefix': 'html5'
+      'body': '
+<!DOCTYPE html>\n
+<html>\n
+\t<head>\n
+\t\t<meta charset="utf-8">\n
+\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge">\n
+\t\t<title></title>\n
+\t\t<meta name="description" content=" " />\n
+\t\t<meta name="author" content=" " />\n
+\t\t<meta name="HandheldFriendly" content="true" />\n
+\t\t<meta name="MobileOptimized" content="320" />\n
+\t\t<!-- Use maximum-scale and user-scalable at your own risk. It disables pinch/zoom. Think about usability/accessibility before including.-->\n
+\t\t<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />\n
+\t\t<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n
+\t\t<link rel="stylesheet" type="text/css" href=" ">\n
+\t</head>\n
+\t<body>\n
+\t\t<h1>Hello, World!</h1>\n
+\t\t<p>Go ahead and add your content!</p>\n
+\t<script type="text/javascript" src=" "></script>\n
+\t</body>\n
+</html>'

@@ -1,0 +1,1 @@
+# HTML5 Skeleton Snippets for Atom Editor and Sublime Text
